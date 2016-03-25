@@ -1,0 +1,44 @@
+{
+    "origin": ["gg afk, #excuseFactory#"],
+    "excuseFactory": ["#excuse#", "#excuse#, and #excuse#"],
+    "excuse": [
+        "#role# sucks",
+        "my #crisis#",
+        "i left my #pet# in the #place#",
+        "#creature.a# is attacking my #bigPossession#",
+        "the #role# took 1 cs",
+        "cannon minion died to tower shot",
+        "enemy top laner has 1 more cs",
+        "i need to #takeCareOf# my #petOrPossession#",
+        "there's #naturalDisaster.a#",
+        "there's #undesirableVisitor.a# at my house",
+        "i forgot to put #topping# on my #food#",
+        "a #bigObject# fell on my #bigPossession#",
+        "the #food# guy is here",
+        "#creature.s# ate my #food#"
+    ],
+    "pet": ["dog", "cat", "guinea pig", "lobster"],
+    "possession": ["pool", "phone", "xbox", "lawn"],
+    "petOrPossession": ["#pet#", "#possession#"],
+    "crisis": [
+        "#petOrPossession# is on fire",
+        "#pet# is giving birth",
+        "#pet# needs to go to the bathroom",
+        "#pet# is having surgery",
+        "#pet# escaped",
+        "#petOrPossession# is in the microwave",
+        "keyboard stopped working"
+    ],
+    "place": ["car", "dishwasher", "washing machine", "dryer"],
+    "naturalDisaster": ["earthquake", "tornado", "volcano", "swarm of #creature.s#"],
+    "creature": ["velociraptor", "laser raptor", "#celebrity# impersonator", "loch ness monster", "woodpecker"],
+    "celebrity": ["elvis", "michael jackson", "lady gaga", "justin bieber", "batman", "deadpool"],
+    "role": ["mid laner", "bot laner", "jungler", "support"],
+    "takeCareOf": ["dye", "shave", "water", "feed", "charge", "comb"],
+    "undesirableVisitor": ["robber", "SWAT team", "#creature#"],
+    "topping": ["salsa", "sriracha", "mayo", "guacamole", "mustard", "ranch"],
+    "food": ["sandwich", "burrito", "pizza", "ice cream"],
+    "bigObject": ["tree", "piano", "boat", "space shuttle"],
+    "bigPossession": ["roof", "car", "house"]
+}
+
